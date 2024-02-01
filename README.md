@@ -21,11 +21,11 @@ The Operational Analytics and Investigating Metric Spike project delves into the
 **Conclusion:**
 Through this project,I have obtained a deeper understanding of the importance of operational analytics and the utilization of metric spikes as a strategic asset has been gained. The insights derived from the analysis can be instrumental in empowering organizations to make data-backed decisions and enhance their overall operational efficiency.
 
-Insights:
+**Insights:**
 Visit the following link to view the overall insights from the above tasks and cases
 https://drive.google.com/file/d/1zs7uK8sOYFWOFzqS2YRa9NT33g84deMd/view?usp=sharing
 
-Video Presentation:
+**Video Presentation:**
 You can also view a summarized approach to my project in the following video
 https://www.loom.com/share/cbce47ecfd154d61b44565c925b255d8?sid=c3b83db2-ce69-46b0-a37a-4dc175463b9e
 
